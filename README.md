@@ -1,1 +1,1 @@
-# Hangman
+# Play hangman against the computer!
